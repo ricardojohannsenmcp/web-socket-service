@@ -19,11 +19,13 @@ public class PusherPropertiesConfig {
 		
 		
 		
-	       private String appId;
+	       private String appId =  "1238424";
 			
-			private String appKey;
+			private String appKey = "62798a4b3962ada6abb1";
 			
-			private String appSecret;
+			private String appSecret = "b4bc185070644dfb7965";
 	}
 
 }
+
+
